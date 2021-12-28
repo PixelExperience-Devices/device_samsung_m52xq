@@ -32,15 +32,3 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/configs/audio/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     $(DEVICE_PATH)/configs/audio/audio_platform_info_diff.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_diff.xml
-
-# Recovery modules and firmware
-PRODUCT_COPY_FILES += \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_cmd.ko:root/vendor/lib/modules/sec_cmd.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_common_fn.ko:root/vendor/lib/modules/sec_common_fn.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_secure_touch.ko:root/vendor/lib/modules/sec_secure_touch.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_tclm_v2.ko:root/vendor/lib/modules/sec_tclm_v2.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_tsp_dumpkey.ko:root/vendor/lib/modules/sec_tsp_dumpkey.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/sec_tsp_log.ko:root/vendor/lib/modules/sec_tsp_log.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/lib/modules/synaptics_ts.ko:root/vendor/lib/modules/synaptics_ts.ko \
-    $(DEVICE_PATH)/recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin:root/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin \
-    $(DEVICE_PATH)/recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin:root/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin
