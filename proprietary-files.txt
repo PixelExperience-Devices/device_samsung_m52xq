@@ -306,6 +306,24 @@ vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.b04|7aa0ec649f20af523f21c6e1901498
 vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.elf|9ed799036f52ca2f9570fe8163cdf8380e8ba6d6
 vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.mdt|2354d263ad22172e787a4d0aedd81b276d5246f3
 
+# Wifi firmware (bootloader revision 3) - from M526BRXXU3CWF3 (T)
+vendor/firmware/ipa/m526br/rev3/wpss.b00|6e49240887c3130b534baa1fac897a797f895b15
+vendor/firmware/ipa/m526br/rev3/wpss.b01|48bee1b60184433ed2a0c98894c44cec4d4bac4f
+vendor/firmware/ipa/m526br/rev3/wpss.b02|4454971055ff504f84cf2f953aeab17af9818fcb
+vendor/firmware/ipa/m526br/rev3/wpss.b03|bbaec8a5d9a417b666c97b36fd00ed307f9ee191
+vendor/firmware/ipa/m526br/rev3/wpss.b04|31805d7a4d43d5f5bdbc6de0d81729885e1c6b1d
+vendor/firmware/ipa/m526br/rev3/wpss.b05|1a7a508c2d447ab3ac122a4e9c08ac41ce204a97
+vendor/firmware/ipa/m526br/rev3/wpss.b06|5a8550f4952ac9ffa8d10280a70e92770a1d41a6
+vendor/firmware/ipa/m526br/rev3/wpss.b07|ca58a5af6afcd88b0acca60d9c1da7e994b4e8a8
+vendor/firmware/ipa/m526br/rev3/wpss.mdt|ba63f80f341f2df8a8bd75cfb4d15f9341c407b3
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b00|a43669e4c8ad4af399b829c7986651bef2fd058a
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b01|0aba47c5ebf4dd82913217867b34832b52942387
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b02|c0f5259e45f67f322459e7afde30cba608b9ea5f
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b03|c07cfef57f8f694b4cee41e78700614efbedf2bc
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b04|7aa0ec649f20af523f21c6e19014987f86f18dff
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.elf|b346f38935b1a26e49a0ad032c01962544013fa3
+vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.mdt|f120f4dc3bf7ed53075c35f31b6e3d218003db6a
+
 # Wifi firmware (bootloader revision 1) - from M526BXXU1CVK1 (T)
 vendor/firmware/ipa/m526b/rev1/wpss.b00|bbbf98507f63f2fbc6f04ed5328d88190de9f124
 vendor/firmware/ipa/m526b/rev1/wpss.b01|8d18b1affbc9f09e254c425abdcd245b36c6ac08
