@@ -23,7 +23,7 @@ vendor/firmware/bt_nvm_loading.xml
 vendor/lib/hw/camera.qcom.so
 vendor/lib/hw/com.qti.chi.override.so
 vendor/lib64/hw/camera.qcom.so|9b012f825f7f79a2cdcbe809cef56a3832beeb4c
-vendor/lib64/hw/com.qti.chi.override.so
+vendor/lib64/hw/com.qti.chi.override.so|bb92e906eb4ca5678e8dae59a2bd30c6ad79b9f3
 vendor/lib/libhypermotion_core.so
 vendor/lib/com.qti.feature2.gs.kodiak.so
 vendor/lib/com.qti.feature2.rt.so
