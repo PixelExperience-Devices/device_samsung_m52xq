@@ -280,59 +280,37 @@ vendor/firmware/wpss.b05|de0fa830b6bbf388f63b36c3b18d47d92711764e
 vendor/firmware/wpss.b06|4a527ed4dfc2be3a12cfa5c6f6cff5513bfe34d7
 vendor/firmware/wpss.b07|3413d463c82e90fe1ef15c8dc65502050265ca31
 vendor/firmware/wpss.mdt|05b798b54a4d07333b026d7529dd10491b1defb3
-vendor/firmware/yupik_ipa_fws.b00|a43669e4c8ad4af399b829c7986651bef2fd058a
-vendor/firmware/yupik_ipa_fws.b01|4cb2772711f481b6ab2580a0afeac2407da550a4
-vendor/firmware/yupik_ipa_fws.b02|c0f5259e45f67f322459e7afde30cba608b9ea5f
-vendor/firmware/yupik_ipa_fws.b03|c07cfef57f8f694b4cee41e78700614efbedf2bc
-vendor/firmware/yupik_ipa_fws.b04|7aa0ec649f20af523f21c6e19014987f86f18dff
-vendor/firmware/yupik_ipa_fws.elf|3889b84f85b6c7e811dd31360c8e5abe2a7cb175
-vendor/firmware/yupik_ipa_fws.mdt|b41d2a1dd769c69b252164cb3f12b3cb6b9b1c24
 
 # Wifi firmware (bootloader revision 1) - from M526BRXXU1CVJ7 (T)
-vendor/firmware/ipa/m526br/rev1/wpss.b01|4f2a8232ea05c846dcbf0505223a68c26ed853ad
-vendor/firmware/ipa/m526br/rev1/wpss.mdt|fc5c342518d535faeb588ba0d0e359a9e44e24a3
-vendor/firmware/ipa/m526br/rev1/yupik_ipa_fws.b01|a36a90cb11944e8bd5a6c47dcdf57888665500a0
-vendor/firmware/ipa/m526br/rev1/yupik_ipa_fws.elf|48529c7115b6916eddca4f798c20dc3ca753fed1
-vendor/firmware/ipa/m526br/rev1/yupik_ipa_fws.mdt|6f9330bdd6bf30996ae2f391349f5e3e0c7a91e9
+vendor/firmware/wlan/m526br/rev1/wpss.b01|4f2a8232ea05c846dcbf0505223a68c26ed853ad
+vendor/firmware/wlan/m526br/rev1/wpss.mdt|fc5c342518d535faeb588ba0d0e359a9e44e24a3
 
 # Wifi firmware (bootloader revision 2) - from M526BXXS2CWE3 (T)
-vendor/firmware/ipa/m526b/rev2/wpss.b00|ec9771fe39350cc2ff27c36e5fdb7f8f0ca4aeb3
-vendor/firmware/ipa/m526b/rev2/wpss.b01|4d47cb8a671731919aa0884e6efe53d1b3e357f9
-vendor/firmware/ipa/m526b/rev2/wpss.b02|1d01914176991452ba141f762ab9b7b32774ab9e
-vendor/firmware/ipa/m526b/rev2/wpss.b03|ac543c537d6779ca5ba08bb6c01fea1aca9d5053
-vendor/firmware/ipa/m526b/rev2/wpss.b04|6cf9481034d98db6d5e2d283f24f7f69f62a4cd9
-vendor/firmware/ipa/m526b/rev2/wpss.b05|4921bc0a7acc43180097eeba29a8e21bbf6270cc
-vendor/firmware/ipa/m526b/rev2/wpss.b06|aa2cdff7b662830ecc28261eb963ea5d78a06842
-vendor/firmware/ipa/m526b/rev2/wpss.b07|ccd078161284175e6ea66ba1314e79707894ea84
-vendor/firmware/ipa/m526b/rev2/wpss.mdt|fb69a57d20c580af2e14130eabc2474f047932cb
-vendor/firmware/ipa/m526b/rev2/yupik_ipa_fws.b01|69d89e0a169e64ec992999b0889e2849ee72afeb
-vendor/firmware/ipa/m526b/rev2/yupik_ipa_fws.elf|6e44782ed4a66aee60f6ed4dca25291971d7f8a7
-vendor/firmware/ipa/m526b/rev2/yupik_ipa_fws.mdt|7815da416617a4290fc35e43eed8b2555a316889
+vendor/firmware/wlan/m526b/rev2/wpss.b00|ec9771fe39350cc2ff27c36e5fdb7f8f0ca4aeb3
+vendor/firmware/wlan/m526b/rev2/wpss.b01|4d47cb8a671731919aa0884e6efe53d1b3e357f9
+vendor/firmware/wlan/m526b/rev2/wpss.b02|1d01914176991452ba141f762ab9b7b32774ab9e
+vendor/firmware/wlan/m526b/rev2/wpss.b03|ac543c537d6779ca5ba08bb6c01fea1aca9d5053
+vendor/firmware/wlan/m526b/rev2/wpss.b04|6cf9481034d98db6d5e2d283f24f7f69f62a4cd9
+vendor/firmware/wlan/m526b/rev2/wpss.b05|4921bc0a7acc43180097eeba29a8e21bbf6270cc
+vendor/firmware/wlan/m526b/rev2/wpss.b06|aa2cdff7b662830ecc28261eb963ea5d78a06842
+vendor/firmware/wlan/m526b/rev2/wpss.b07|ccd078161284175e6ea66ba1314e79707894ea84
+vendor/firmware/wlan/m526b/rev2/wpss.mdt|fb69a57d20c580af2e14130eabc2474f047932cb
 
 # Wifi firmware (bootloader revision 2) - from M526BRXXU2CWB3 (T)
-vendor/firmware/ipa/m526br/rev2/wpss.b01|65bc0be031803fafb569d7027a3c23f93126f21d
-vendor/firmware/ipa/m526br/rev2/wpss.mdt|75fd443c87bd15c0b3e7143df57a98fcba2aa3c5
-vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.b01|47b7b75cf8e11840aca9c8124951dcd320f695e9
-vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.elf|9ed799036f52ca2f9570fe8163cdf8380e8ba6d6
-vendor/firmware/ipa/m526br/rev2/yupik_ipa_fws.mdt|2354d263ad22172e787a4d0aedd81b276d5246f3
+vendor/firmware/wlan/m526br/rev2/wpss.b01|65bc0be031803fafb569d7027a3c23f93126f21d
+vendor/firmware/wlan/m526br/rev2/wpss.mdt|75fd443c87bd15c0b3e7143df57a98fcba2aa3c5
 
 # Wifi firmware (bootloader revision 3) - from M526BXXU3CWF3 (T)
-vendor/firmware/ipa/m526b/rev3/wpss.b00|6e49240887c3130b534baa1fac897a797f895b15
-vendor/firmware/ipa/m526b/rev3/wpss.b01|3cc6157c49f50f473fd22c7de85901e15abc592d
-vendor/firmware/ipa/m526b/rev3/wpss.b02|4454971055ff504f84cf2f953aeab17af9818fcb
-vendor/firmware/ipa/m526b/rev3/wpss.b03|bbaec8a5d9a417b666c97b36fd00ed307f9ee191
-vendor/firmware/ipa/m526b/rev3/wpss.b04|31805d7a4d43d5f5bdbc6de0d81729885e1c6b1d
-vendor/firmware/ipa/m526b/rev3/wpss.b05|1a7a508c2d447ab3ac122a4e9c08ac41ce204a97
-vendor/firmware/ipa/m526b/rev3/wpss.b06|5a8550f4952ac9ffa8d10280a70e92770a1d41a6
-vendor/firmware/ipa/m526b/rev3/wpss.b07|ca58a5af6afcd88b0acca60d9c1da7e994b4e8a8
-vendor/firmware/ipa/m526b/rev3/wpss.mdt|947f21785ad2aebbd0e3c68e53e8e9fa0a271523
-vendor/firmware/ipa/m526b/rev3/yupik_ipa_fws.b01|d05a744a606255ed0c668e2ea2fa796abd5f8c3e
-vendor/firmware/ipa/m526b/rev3/yupik_ipa_fws.elf|106210591ea53832b5e3425b26a95f75383acf77
-vendor/firmware/ipa/m526b/rev3/yupik_ipa_fws.mdt|a58a1eb10fb6bd908707b9e54bf20a24c48b3d91
+vendor/firmware/wlan/m526b/rev3/wpss.b00|6e49240887c3130b534baa1fac897a797f895b15
+vendor/firmware/wlan/m526b/rev3/wpss.b01|3cc6157c49f50f473fd22c7de85901e15abc592d
+vendor/firmware/wlan/m526b/rev3/wpss.b02|4454971055ff504f84cf2f953aeab17af9818fcb
+vendor/firmware/wlan/m526b/rev3/wpss.b03|bbaec8a5d9a417b666c97b36fd00ed307f9ee191
+vendor/firmware/wlan/m526b/rev3/wpss.b04|31805d7a4d43d5f5bdbc6de0d81729885e1c6b1d
+vendor/firmware/wlan/m526b/rev3/wpss.b05|1a7a508c2d447ab3ac122a4e9c08ac41ce204a97
+vendor/firmware/wlan/m526b/rev3/wpss.b06|5a8550f4952ac9ffa8d10280a70e92770a1d41a6
+vendor/firmware/wlan/m526b/rev3/wpss.b07|ca58a5af6afcd88b0acca60d9c1da7e994b4e8a8
+vendor/firmware/wlan/m526b/rev3/wpss.mdt|947f21785ad2aebbd0e3c68e53e8e9fa0a271523
 
 # Wifi firmware (bootloader revision 3) - from M526BRXXU3CWF3 (T)
-vendor/firmware/ipa/m526br/rev3/wpss.b01|48bee1b60184433ed2a0c98894c44cec4d4bac4f
-vendor/firmware/ipa/m526br/rev3/wpss.mdt|ba63f80f341f2df8a8bd75cfb4d15f9341c407b3
-vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.b01|0aba47c5ebf4dd82913217867b34832b52942387
-vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.elf|b346f38935b1a26e49a0ad032c01962544013fa3
-vendor/firmware/ipa/m526br/rev3/yupik_ipa_fws.mdt|f120f4dc3bf7ed53075c35f31b6e3d218003db6a
+vendor/firmware/wlan/m526br/rev3/wpss.b01|48bee1b60184433ed2a0c98894c44cec4d4bac4f
+vendor/firmware/wlan/m526br/rev3/wpss.mdt|ba63f80f341f2df8a8bd75cfb4d15f9341c407b3
